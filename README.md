@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CorneliusGerard
-      My real name is Neil
+      .My real name is Neil F G
 - 👀 I’m interested in Software Development and Machine Learning
 - 🌱 I’m currently learning Java Development
 - 💞️ Feel free to connect and collaborate..
